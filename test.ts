@@ -1,0 +1,1 @@
+'Angular script file'
